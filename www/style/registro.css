@@ -1,0 +1,16 @@
+body{
+    background: rgb(250,234,219);
+background: linear-gradient(90deg, rgba(250,234,219,1) 0%, rgba(230,218,111,1) 41%, rgba(241,255,0,0.6895133053221288) 100%);
+}
+
+.card-img-left{
+    width: 45%;
+    background: url('../images/3.webp');
+    background-size: cover;
+}
+
+.btn-login{
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
